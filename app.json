@@ -1,0 +1,39 @@
+{
+  "id": "fd2177c1-e109-4aa5-887c-a664afc4b986",
+  "name": "PostDate",
+  "publisher": "Ryan",
+  "version": "1.0.0.1",
+  "brief": "",
+  "description": "updates the posting date on sales orders on open to the working date",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies":[
+    {
+      "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "name": "Base Application",
+      "version": "19.4.35398.37301",
+      "publisher": "Microsoft"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 80150,
+      "to": 80151
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "11.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
